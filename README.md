@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nicolás Díaz</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+code&size=25&duration=3000&pause=1000&color=blue&random=false&width=435&lines=Welcome+to+my+site;I'm+a+FRONT-END+developer;I'm+19-years+old;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+code&size=25&duration=3000&pause=1000&color=blue&random=false&width=435&lines=Welcome+to+my+site;I'm+a+Python+Developer;I'm+19-years+old;)](https://git.io/typing-svg)
 <br>
 ###
 
