@@ -1,4 +1,12 @@
-<h1 align="center">Hi, I'm Nicolás Díaz</h1>
+###
+```
+  _   _ _  ____ _  ____        _______ ____  
+ | \ | / |/ ___| |/ /\ \      / / ____| __ ) 
+ |  \| | | |   | ' /  \ \ /\ / /|  _| |  _ \ 
+ | |\  | | |___| . \   \ V  V / | |___| |_) |
+ |_| \_|_|\____|_|\_\   \_/\_/  |_____|____/ 
+                                             
+```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+code&size=25&duration=3000&pause=1000&color=blue&random=false&width=435&lines=Welcome+to+my+site;I'm+a+Python+Developer;I'm+19-years+old;)](https://git.io/typing-svg)
 <br>
@@ -51,13 +59,4 @@
   <img src="https://profile-counter.glitch.me/N1CKWEB/count.svg?"  />
 </div>
 
-###
-```
-  _   _ _  ____ _  ____        _______ ____  
- | \ | / |/ ___| |/ /\ \      / / ____| __ ) 
- |  \| | | |   | ' /  \ \ /\ / /|  _| |  _ \ 
- | |\  | | |___| . \   \ V  V / | |___| |_) |
- |_| \_|_|\____|_|\_\   \_/\_/  |_____|____/ 
-                                             
-```
 
